@@ -1,3 +1,5 @@
+**This repository moved to https://codeberg.org/cypherpunk/iuu-flasher**
+
 # IUU Flasher
 
 This is a tool to flash/dump smart cards using the Infinity USB Unlimited.
